@@ -1,0 +1,26 @@
+{
+  "name": "tress_to_impress",
+  "version": "1.0.0",
+  "description": "Webpage for Mary Tress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chance1215/tress_to_impress.git"
+  },
+  "author": "Chelsea Grimmett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chance1215/tress_to_impress/issues"
+  },
+  "homepage": "https://github.com/chance1215/tress_to_impress#readme",
+  "dependencies": {
+    "connect-session-knex": "^1.4.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "knex": "^0.16.3"
+  }
+}
